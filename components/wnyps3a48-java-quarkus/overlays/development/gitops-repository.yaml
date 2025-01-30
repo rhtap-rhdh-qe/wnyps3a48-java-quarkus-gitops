@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wnyps3a48-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wnyps3a48-java-quarkus-gitops
